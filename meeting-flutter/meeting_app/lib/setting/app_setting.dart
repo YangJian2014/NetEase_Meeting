@@ -7,7 +7,6 @@ import 'dart:math';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:nemeeting/base/util/text_util.dart';
 import 'package:nemeeting/language/localizations.dart';
-import 'package:nemeeting/service/config/app_config.dart';
 import 'package:nemeeting/setting/personal_setting.dart';
 import 'package:nemeeting/uikit/state/meeting_base_state.dart';
 import 'package:flutter/material.dart';

@@ -5,7 +5,6 @@
 import 'package:nemeeting/base/util/text_util.dart';
 import 'package:flutter/material.dart';
 import 'package:nemeeting/pre_meeting/schedule_meeting_base_state.dart';
-import 'package:netease_meeting_kit/meeting_core.dart';
 import 'package:netease_meeting_kit/meeting_ui.dart';
 import 'package:nemeeting/utils/integration_test.dart';
 import 'package:nemeeting/service/client/http_code.dart';

@@ -2,8 +2,6 @@
 // Use of this source code is governed by a MIT license that can be
 // found in the LICENSE file.
 
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:nemeeting/uikit/values/dimem.dart';
@@ -14,7 +12,6 @@ import 'package:nemeeting/service/config/servers.dart';
 
 import '../language/localizations.dart';
 import '../uikit/state/meeting_base_state.dart';
-import '../uikit/utils/nav_utils.dart';
 import '../uikit/values/asset_name.dart';
 import '../uikit/values/colors.dart';
 import '../uikit/values/fonts.dart';

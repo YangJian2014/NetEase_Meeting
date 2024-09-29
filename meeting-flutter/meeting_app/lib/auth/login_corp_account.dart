@@ -8,7 +8,6 @@ import 'package:nemeeting/auth/auth_widgets.dart';
 import 'package:nemeeting/base/util/global_preferences.dart';
 import 'package:nemeeting/routes/home_page.dart';
 import 'package:nemeeting/service/auth/password_utils.dart';
-import 'package:nemeeting/service/config/app_config.dart';
 import 'package:nemeeting/service/repo/auth_repo.dart';
 import 'package:nemeeting/state/auth_base_state.dart';
 import 'package:nemeeting/uikit/values/colors.dart';
